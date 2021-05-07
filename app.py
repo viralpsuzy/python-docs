@@ -4,5 +4,8 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     return "Hello, Test Azure!"
+
 import pyodbc
-print ("Import Successful")
+
+def test():
+    return "This is hosted web application, run using Python"
