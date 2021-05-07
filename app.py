@@ -4,3 +4,5 @@ app = Flask(__name__)
 @app.route("/")
 def hello():
     return "Hello, Test Azure!"
+import pyodbc
+print ("Import Successful")
