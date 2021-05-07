@@ -36,6 +36,7 @@ openpyxl
 xlsxwriter
 pyreadstat
 word2number
+dash
 
 #stats------
 lightgbm
